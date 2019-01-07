@@ -1,0 +1,48 @@
+This is BibTeX, Version 0.99d (TeX Live 2017/Debian)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: template_Report.aux
+The style file: abbrvnat.bst
+Database file #1: references.bib
+Warning--empty journal in liu2015representation
+You've used 80 entries,
+            2773 wiz_defined-function locations,
+            1009 strings with 20852 characters,
+and the built_in function-call counts, 44030 in all, are:
+= -- 4030
+> -- 2534
+< -- 76
++ -- 854
+- -- 774
+* -- 3371
+:= -- 6396
+add.period$ -- 258
+call.type$ -- 80
+change.case$ -- 494
+chr.to.int$ -- 80
+cite$ -- 161
+duplicate$ -- 2105
+empty$ -- 3544
+format.name$ -- 892
+if$ -- 9584
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 78
+newline$ -- 408
+num.names$ -- 320
+pop$ -- 1092
+preamble$ -- 1
+purify$ -- 414
+quote$ -- 0
+skip$ -- 1754
+stack$ -- 0
+substring$ -- 1876
+swap$ -- 489
+text.length$ -- 45
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 880
+warning$ -- 1
+while$ -- 392
+width$ -- 0
+write$ -- 1045
+(There was 1 warning)

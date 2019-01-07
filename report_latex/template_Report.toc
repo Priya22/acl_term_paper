@@ -1,0 +1,33 @@
+\babel@toc {english}{}
+\contentsline {section}{\numberline {1}Introduction}{1}
+\contentsline {subsection}{\numberline {1.1}Formal Definitions}{2}
+\contentsline {subsection}{\numberline {1.2}Categories of Transfer Learning}{3}
+\contentsline {section}{\numberline {2}Domain Adaptation in NLP}{4}
+\contentsline {subsection}{\numberline {2.1}What do we mean by different domains?}{4}
+\contentsline {subsubsection}{\numberline {2.1.1}Multilingual corpora }{4}
+\contentsline {subsection}{\numberline {2.2}Main Approaches}{5}
+\contentsline {section}{\numberline {3}Prior-based methods}{6}
+\contentsline {subsection}{\numberline {3.1}Prior over label space}{6}
+\contentsline {subsection}{\numberline {3.2}Fine-tuning classifiers}{7}
+\contentsline {section}{\numberline {4}Instance-based methods}{7}
+\contentsline {section}{\numberline {5}Feature-based approaches}{9}
+\contentsline {section}{\numberline {6}Domain Adaptation with Neural Networks}{11}
+\contentsline {subsection}{\numberline {6.1}Pre-trained Representations}{12}
+\contentsline {subsection}{\numberline {6.2}word2vec and GloVe}{12}
+\contentsline {subsection}{\numberline {6.3}ELMo, BERT and Fine-tuning}{13}
+\contentsline {subsection}{\numberline {6.4}Domain-specific embeddings}{14}
+\contentsline {subsection}{\numberline {6.5}Autoencoder based domain adaptation}{14}
+\contentsline {subsection}{\numberline {6.6}Domain-adversarial training}{15}
+\contentsline {section}{\numberline {7}Related Work}{15}
+\contentsline {subsection}{\numberline {7.1}Looking at data}{15}
+\contentsline {subsection}{\numberline {7.2}Multi-task learning}{16}
+\contentsline {subsection}{\numberline {7.3}Few-shot learning}{16}
+\contentsline {subsection}{\numberline {7.4}Cross-lingual learning}{17}
+\contentsline {subsection}{\numberline {7.5}Semi-supervised learning}{17}
+\contentsline {section}{\numberline {8}Case Study: Part-of-Speech tagging}{17}
+\contentsline {subsection}{\numberline {8.1}Why domain adaptation?}{18}
+\contentsline {subsection}{\numberline {8.2}Datasets}{18}
+\contentsline {subsection}{\numberline {8.3}Methods}{18}
+\contentsline {subsection}{\numberline {8.4}Results}{18}
+\contentsline {subsection}{\numberline {8.5}Discussion}{19}
+\contentsline {section}{\numberline {9}Conclusion}{20}
